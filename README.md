@@ -78,3 +78,9 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
 # Laravel7-Vue
+This is a starter template for Laravel 7 and Vue.JS
+this template includes:
+- Laravel 7
+- Vue.JS
+- PurgeCSS
+- Debugbar
